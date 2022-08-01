@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ferrari</title>
+        <description></description>
+        <link>https://ferrari.bokemia.com/</link>
+        <atom:link href="https://ferrari.bokemia.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 01 Aug 2022 19:14:00 -0400</pubDate>
+        <lastBuildDate>Mon, 01 Aug 2022 19:14:00 -0400</lastBuildDate>
+        <generator>Jekyll v4.2.2</generator>
+        
+            <item>
+                <title>31 things</title>
+                <description>&lt;h3 id=&quot;august-1st-2022&quot;&gt;August 1&lt;sup&gt;st&lt;/sup&gt;, 2022&lt;/h3&gt;
+&lt;p&gt;I like that you don’t mind the fact that I’ve told my family about you. To me, that means your boyfriend would never feel trapped and urged into hiding things from either side, except for what’s reasonably private or sensitive, obviously.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Green_10.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+                <pubDate>Mon, 01 Aug 2022 00:00:00 -0400</pubDate>
+                <link>https://ferrari.bokemia.com/jennifer</link>
+                <guid isPermaLink="true">https://ferrari.bokemia.com/jennifer</guid>
+                
+                <category>August</category>
+                
+                
+            </item>
+        
+    </channel>
+</rss>

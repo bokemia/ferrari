@@ -3,10 +3,10 @@
     <channel>
         <title>Ferrari</title>
         <description></description>
-        <link>https://ferrari.bokemia.com/</link>
-        <atom:link href="https://ferrari.bokemia.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Aug 2022 21:52:40 -0400</pubDate>
-        <lastBuildDate>Tue, 16 Aug 2022 21:52:40 -0400</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 17 Aug 2022 07:19:10 -0400</pubDate>
+        <lastBuildDate>Wed, 17 Aug 2022 07:19:10 -0400</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
             <item>
@@ -84,8 +84,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
                 <pubDate>Wed, 17 Aug 2022 00:00:00 -0400</pubDate>
-                <link>https://ferrari.bokemia.com/jennifer</link>
-                <guid isPermaLink="true">https://ferrari.bokemia.com/jennifer</guid>
+                <link>http://localhost:4000/jennifer</link>
+                <guid isPermaLink="true">http://localhost:4000/jennifer</guid>
                 
                 
             </item>
